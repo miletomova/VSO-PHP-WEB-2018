@@ -35,7 +35,7 @@ Training Resources
 			</tr>
 			<tr>
 				<td>4</td>
-				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/04_html_css">HTML/CSS, Стилизиране</a>//<br>/<a href="https://youtu.be/wsrw2BA4Ny4">Видео - група 1</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/blob/master/01_PHP_1/03_html_tables_forms/Home_work_tables_and_forms.pdf">ДОМАШНО</a></td>
+				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/04_html_css">HTML/CSS, Стилизиране</a>//<br>/<a href="https://youtu.be/wsrw2BA4Ny4">Видео - група 1</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/04_html_css/homeWork">ДОМАШНО</a></td>
 				<td>21-22.11.2018</td>
 				<td>19.00</td>
 			</tr>
