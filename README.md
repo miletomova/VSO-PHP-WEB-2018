@@ -35,7 +35,7 @@ Training Resources
 			</tr>
 			<tr>
 				<td>4</td>
-				<td><a href="">HTML/CSS, Стилизиране</a></td>
+				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/04_html_css">HTML/CSS, Стилизиране</a></td>
 				<td>21-22.11.2018</td>
 				<td>19.00</td>
 			</tr>
