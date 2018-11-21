@@ -29,13 +29,13 @@ Training Resources
 			</tr>
 			<tr>
 				<td>3</td>
-				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/03_html_tables_forms">HTML/CSS, таблици и форми, Стилизиране ...<br>/<a href="https://youtu.be/l5cx7uk9dco">Видео - група 1</a>//<a href="https://youtu.be/kLct645qlBk">Видео - група 2</a>//<br>/<a href="https://youtu.be/l5cx7uk9dco">Видео - група 1</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/blob/master/01_PHP_1/03_html_tables_forms/Home_work_tables_and_forms.pdf">ДОМАШНО</a></td>
+				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/03_html_tables_forms">HTML/CSS, таблици и форми, Стилизиране ...<br>/<a href="https://youtu.be/l5cx7uk9dco">Видео - група 1</a>//<a href="https://youtu.be/kLct645qlBk">Видео - група 2</a>//<br>/<a href="https://youtu.be/l5cx7uk9dco">Видео - група 2</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/blob/master/01_PHP_1/03_html_tables_forms/Home_work_tables_and_forms.pdf">ДОМАШНО</a></td>
 				<td>18.11.2018</td>
 				<td>13.30/16.30</td>
 			</tr>
 			<tr>
 				<td>4</td>
-				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/04_html_css">HTML/CSS, Стилизиране</a></td>
+				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/04_html_css">HTML/CSS, Стилизиране</a>//<br>/<a href="https://youtu.be/wsrw2BA4Ny4">Видео - група 1</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/blob/master/01_PHP_1/03_html_tables_forms/Home_work_tables_and_forms.pdf">ДОМАШНО</a></td>
 				<td>21-22.11.2018</td>
 				<td>19.00</td>
 			</tr>
