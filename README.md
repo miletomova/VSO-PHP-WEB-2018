@@ -41,13 +41,13 @@ Training Resources
 			</tr>
 			<tr>
 				<td>5</td>
-				<td><a href="">PHP - въведение</a></td>
+				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/05_php_intro/slides">PHP - въведение</a><br><br><a href="https://youtu.be/TXrG_WOjlvA">Видео - група 1</a>//<a href="">Видео - група 2</a></td>
 				<td>25.11.2018</td>
 				<td>13.30/16.30</td>
 			</tr>
 			<tr>
 				<td>6</td>
-				<td><a href="">PHP - if, else & switch</a></td>
+				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/06_php_conditionals/slides">PHP - if, else & switch</a></td>
 				<td>26.11.2018</td>
 				<td>19.00</td>
 			</tr>
