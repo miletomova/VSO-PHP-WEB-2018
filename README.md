@@ -47,13 +47,13 @@ Training Resources
 			</tr>
 			<tr>
 				<td>6</td>
-				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/06_php_conditionals/slides">PHP - if, else & switch</a><br><a href="https://youtu.be/zzWTXx6Bu3I">Видео</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/06_php_conditionals/homeWork">ДОМАШНО</a></td>
+				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/06_php_conditionals/slides">PHP - if, else & switch</a><br><a href="https://youtu.be/B-QTQ9bSw9o">Видео</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/06_php_conditionals/homeWork">ДОМАШНО</a></td>
 				<td>26.11.2018</td>
 				<td>19.00</td>
 			</tr>
 			<tr>
 				<td>6</td>
-				<td><a href="">PHP - if, else & switch</a></td>
+				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/06_php_conditionals/slides">PHP - if, else & switch</a><br><a href="https://youtu.be/zzWTXx6Bu3I">Видео</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/06_php_conditionals/homeWork">ДОМАШНО</a></td>
 				<td>29.11.2018</td>
 				<td>19.00</td>
 			</tr>
