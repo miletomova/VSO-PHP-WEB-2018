@@ -67,6 +67,7 @@ Training Resources
 				<td>7</td>
 				<td><a href="">PHP. Масиви. Потребителски данни.</a></td>
 				<td>5-6.12.2018</td>
+				<td>19.00</td>
 			</tr>
 			<tr>
 				<td>8</td>
