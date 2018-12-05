@@ -73,7 +73,7 @@ Training Resources
 				<td>8</td>
 				<td><a href="">PHP - foreach&while</a></td>
 				<td>9.12.2018</td>
-				<td>13.30/16.30</td>
+				<td>12.30/15.30</td>
 			</tr>
 			<tr>
 				<td>9</td>
