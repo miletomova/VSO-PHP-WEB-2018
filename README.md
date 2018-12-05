@@ -65,7 +65,7 @@ Training Resources
 			</tr>
 			<tr>
 				<td>7</td>
-				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/07_php_1_arrays_user_input/slides">PHP. Масиви. Потребителски данни.</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/07_php_1_arrays_user_input/tasks">Задачи</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/07_php_1_arrays_user_input/demos">Демо</a>//<a href="">Видео</a>//<a href="">Видео - група 2</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/07_php_1_arrays_user_input/homeWork">ДОМАШНО</a></td>
+				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/07_php_1_arrays_user_input/slides">PHP. Масиви. Потребителски данни.</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/07_php_1_arrays_user_input/tasks">Задачи</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/07_php_1_arrays_user_input/demos">Демо</a>//<a href="https://youtu.be/_9GSHkD-UR0">Видео</a>//<a href="">Видео - група 2</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/07_php_1_arrays_user_input/homeWork">ДОМАШНО</a></td>
 				<td>5-6.12.2018</td>
 				<td>19.00</td>
 			</tr>
