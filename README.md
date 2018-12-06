@@ -85,7 +85,7 @@ Training Resources
 				<td>10</td>
 				<td><a href="">PHP - функции</a></td>
 				<td>16.12.2018</td>
-				<td>13.30/16.30</td>
+				<td>12.30/15.30</td>
 			</tr>
 			<tr>
 				<td>11</td>
@@ -103,7 +103,7 @@ Training Resources
 				<td>12</td>
 				<td><a href="">PHP - Работа със стрингове</a></td>
 				<td>06.01.2019</td>
-				<td>13.30/16.30</td>
+				<td>12.30/15.30</td>
 			</tr>
 			<tr>
 				<td>13</td>
@@ -115,7 +115,7 @@ Training Resources
 				<td>14</td>
 				<td><a href="">PHP - Тест</a></td>
 				<td>13.01.2019</td>
-				<td>13.30/16.30</td>				
+				<td>12.30/15.30</td>				
 			</tr>
 			<tr>
 				<td>15</td>
@@ -127,7 +127,7 @@ Training Resources
 				<td>16</td>
 				<td><a href="">представяне на проекти</a></td>
 				<td>20.01.2019</td>
-				<td></td>
+				<td>12.30/15.30</td>
 			</tr>
     </tbody>
 </table>
