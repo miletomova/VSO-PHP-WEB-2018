@@ -41,7 +41,7 @@ Training Resources
 			</tr>
 			<tr>
 				<td>5</td>
-				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/05_php_intro/slides">PHP - въведение</a><br><br><a href="https://youtu.be/TXrG_WOjlvA">Видео - група 1</a>//<a href="https://youtu.be/lw0b5cchJx0">Видео - група 2</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/05_php_intro/homeWork">ДОМАШНО</a></td>
+				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/05_php_intro/slides">PHP - въведение</a><br><br><a href="https://youtu.be/TXrG_WOjlvA">Видео</a>//<a href="https://youtu.be/lw0b5cchJx0">Видео - група 2</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/05_php_intro/homeWork">ДОМАШНО</a></td>
 				<td>25.11.2018</td>
 				<td>13.30/16.30</td>
 			</tr>
@@ -53,7 +53,7 @@ Training Resources
 			</tr>
 			<tr>
 				<td>6</td>
-				<td><a href="">PHP - if, else & switch</a></td>
+				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/06_php_conditionals/slides">PHP - if, else & switch</a><br><a href="https://youtu.be/zzWTXx6Bu3I">Видео</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/06_php_conditionals/homeWork">ДОМАШНО</a></td>
 				<td>29.11.2018</td>
 				<td>19.00</td>
 			</tr>
@@ -65,14 +65,15 @@ Training Resources
 			</tr>
 			<tr>
 				<td>7</td>
-				<td><a href="">PHP. Масиви. Потребителски данни.</a></td>
+				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/07_php_1_arrays_user_input/slides">PHP. Масиви. Потребителски данни.</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/07_php_1_arrays_user_input/tasks">Задачи</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/07_php_1_arrays_user_input/demos">Демо</a>//<a href="https://youtu.be/_9GSHkD-UR0">Видео</a>//<a href="">Видео - група 2</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/07_php_1_arrays_user_input/homeWork">ДОМАШНО</a></td>
 				<td>5-6.12.2018</td>
+				<td>19.00</td>
 			</tr>
 			<tr>
 				<td>8</td>
 				<td><a href="">PHP - foreach&while</a></td>
 				<td>9.12.2018</td>
-				<td>13.30/16.30</td>
+				<td>12.30/15.30</td>
 			</tr>
 			<tr>
 				<td>9</td>
@@ -84,7 +85,7 @@ Training Resources
 				<td>10</td>
 				<td><a href="">PHP - функции</a></td>
 				<td>16.12.2018</td>
-				<td>13.30/16.30</td>
+				<td>12.30/15.30</td>
 			</tr>
 			<tr>
 				<td>11</td>
@@ -102,7 +103,7 @@ Training Resources
 				<td>12</td>
 				<td><a href="">PHP - Работа със стрингове</a></td>
 				<td>06.01.2019</td>
-				<td>13.30/16.30</td>
+				<td>12.30/15.30</td>
 			</tr>
 			<tr>
 				<td>13</td>
@@ -114,7 +115,7 @@ Training Resources
 				<td>14</td>
 				<td><a href="">PHP - Тест</a></td>
 				<td>13.01.2019</td>
-				<td>13.30/16.30</td>				
+				<td>12.30/15.30</td>				
 			</tr>
 			<tr>
 				<td>15</td>
@@ -126,7 +127,7 @@ Training Resources
 				<td>16</td>
 				<td><a href="">представяне на проекти</a></td>
 				<td>20.01.2019</td>
-				<td></td>
+				<td>12.30/15.30</td>
 			</tr>
     </tbody>
 </table>
