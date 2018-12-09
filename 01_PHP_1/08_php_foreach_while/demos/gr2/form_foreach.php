@@ -6,7 +6,6 @@ $phone_numbers = [
 				];
 
 ?>
-
 <form action="" method="get">
 	<select name="man">
 		<?php 
@@ -20,7 +19,6 @@ $phone_numbers = [
 <?php 
 	if( !empty($_GET) ){
 		$man = $_GET['man'];
-
 		echo $man .'`s phone number is '. $phone_numbers[$man];
 	}
 ?>
