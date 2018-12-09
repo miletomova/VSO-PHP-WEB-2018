@@ -17,3 +17,10 @@ $phone_numbers = [
 	</select>
 	<input type="submit" name="submit" value="send">
 </form>
+<?php 
+	if( !empty($_GET) ){
+		$man = $_GET['man'];
+
+		echo $man .'`s phone number is '. $phone_numbers[$man];
+	}
+?>
