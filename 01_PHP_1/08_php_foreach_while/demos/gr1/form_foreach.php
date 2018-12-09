@@ -11,7 +11,7 @@ $phone_numbers = [
 ?>
 
 <form action="" method="get">
-	<select name="city">
+	<select name="man">
 		<?php 
 		foreach($phone_numbers as $name=>$phone){
 			echo "<option value='$name'>$name</option>";
@@ -20,3 +20,12 @@ $phone_numbers = [
 	</select>
 	<input type="submit" name="check">	
 </form>
+
+<?php 
+
+if(!empty($_GET)){
+	
+	$man = $_GET['man'];
+
+	echo $man . "'s phone number is " . $phone_numbers[$man];
+}
