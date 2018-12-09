@@ -71,7 +71,7 @@ Training Resources
 			</tr>
 			<tr>
 				<td>8</td>
-				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/08_php_foreach_while/slides">PHP - foreach&while</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/08_php_foreach_while/tasks">Задачи</a>//<a href="">Демо</a>//<a href="">Видео</a>//<a href="">Видео</a>//<a href="">ДОМАШНО</a></td>
+				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/08_php_foreach_while/slides">PHP - foreach&while</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/08_php_foreach_while/tasks">Задачи</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/08_php_foreach_while">Демо</a>//<a href="">Видео</a>//<a href="">Видео</a>//<a href="">ДОМАШНО</a></td>
 				<td>9.12.2018</td>
 				<td>12.30/15.30</td>
 			</tr>
@@ -83,7 +83,7 @@ Training Resources
 			</tr>
 			<tr>
 				<td>10</td>
-				<td><a href="">PHP - функции</a></td>
+				<td><a href="">PHP - функции, GitHub</a></td>
 				<td>16.12.2018</td>
 				<td>12.30/15.30</td>
 			</tr>
