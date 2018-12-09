@@ -83,7 +83,7 @@ Training Resources
 			</tr>
 			<tr>
 				<td>10</td>
-				<td><a href="">PHP - функции</a></td>
+				<td><a href="">PHP - функции, GitHub</a></td>
 				<td>16.12.2018</td>
 				<td>12.30/15.30</td>
 			</tr>
