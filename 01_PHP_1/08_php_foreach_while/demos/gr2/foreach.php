@@ -7,3 +7,18 @@ $phone_numbers = [
 				];
 
 
+foreach($phone_numbers as $name=>$phone){
+	// echo $name . ' - ' . $phone . '//';
+	echo $name . '//';
+}
+
+
+// $num = 1;
+// foreach($phone_numbers as $phone){
+// 	echo 'Phone Number No' . $num . ' is ' . $phone . '//';
+// 	$num++;
+// 	// $num = $num + 1;
+// 	//$num--;
+// 	//$num+=1;
+// 	// $num = $num - 1;
+// }
