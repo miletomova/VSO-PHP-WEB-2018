@@ -23,7 +23,7 @@ $phone_numbers = [
 
 <?php 
 
-if(!empty($_GET)){
+if( !empty($_GET) ){
 	
 	$man = $_GET['man'];
 
