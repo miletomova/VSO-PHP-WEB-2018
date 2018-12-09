@@ -7,21 +7,3 @@ $phone_numbers = [
 				];
 
 
-// foreach($phone_numbers as $key=>$value){
-foreach($phone_numbers as $name=>$phone_number){
-	echo 'The phone number of '.$name. ' is ' . $phone_number . ' // ';
-}
-
-$num = 1;
-foreach($phone_numbers as $phone_number){
-	echo 'The phone number  '. $num . ' is ' . $phone_number . ' // ';
-
-	// $num = $num + 1;
-	$num++;
-}
-
-$number = 1; 
-foreach($phone_numbers as $name=>$phone_number){
-	echo 'The name '.$num. ' is ' . $name. ' // ';
-	$num++;
-}
