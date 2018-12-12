@@ -77,7 +77,7 @@ Training Resources
 			</tr>
 			<tr>
 				<td>9</td>
-				<td><a href="">PHP - цикъл For, вложени цикли, двумерни масиви</a></td>
+				<td><a href="">PHP - цикъл For, вложени цикли, двумерни масиви</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/08_php_foreach_while/tasks">Задачи</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/09_php_for_and_nested_loops/demos">Демо</a>//<a href="https://youtu.be/DG-Z9XVxKrk">Видео</a>//<a href="">Видео - 2</a>//<a href="">ДОМАШНО</a></td>
 				<td>12-13.12.2018</td>
 				<td>19.00</td>
 			</tr>
