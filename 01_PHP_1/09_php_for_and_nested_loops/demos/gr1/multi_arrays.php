@@ -8,3 +8,10 @@ $arr_multi = [
 			];
 
 echo $arr_multi[2][0];
+
+$cars = [
+		['brand' => 'WV', 'avg_price' => 20000 ],
+		['brand' => 'Volvo', 'avg_price' => 30000],
+		];
+
+echo $cars[1]['avg_price'];
