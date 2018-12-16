@@ -77,19 +77,19 @@ Training Resources
 			</tr>
 			<tr>
 				<td>9</td>
-				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/09_php_for_and_nested_loops">PHP - цикъл For, вложени цикли, двумерни масиви</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/09_php_for_and_nested_loops">Задачи</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/09_php_for_and_nested_loops/demos">Демо</a>//<a href="https://youtu.be/DG-Z9XVxKrk">Видео</a>//<a href="">Видео - 2</a>//<a href="">ДОМАШНО</a></td>
+				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/09_php_for_and_nested_loops">PHP - цикъл For, вложени цикли, двумерни масиви</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/09_php_for_and_nested_loops">Задачи</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/09_php_for_and_nested_loops/demos">Демо</a>//<a href="https://youtu.be/DG-Z9XVxKrk">Видео</a>//<a href="https://youtu.be/CwkEILbyNjI">Видео - 2</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/blob/master/01_PHP_1/09_php_for_and_nested_loops/homeWork/PHP_forms_HW.pdf">ДОМАШНО</a></td>
 				<td>12-13.12.2018</td>
 				<td>19.00</td>
 			</tr>
 			<tr>
 				<td>10</td>
-				<td><a href="">PHP - функции, GitHub</a></td>
+				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/09_php_for_and_nested_loops/tasks">PHP - матрици, упражнения, GitHub</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/10_php_lab/demos">Демо</a>//<a href="">Видео</a>//<a href="">Видео - 2</a>//<a href="">ДОМАШНО</a></td>
 				<td>16.12.2018</td>
 				<td>12.30/15.30</td>
 			</tr>
 			<tr>
 				<td>11</td>
-				<td><a href="">PHP - Сесии</a></td>
+				<td><a href="">PHP - Функции</a></td>
 				<td>19-20.12.2018</td>
 				<td>19.00</td>				
 			</tr>
@@ -101,32 +101,44 @@ Training Resources
 			</tr>
 			<tr>
 				<td>12</td>
-				<td><a href="">PHP - Работа със стрингове</a></td>
+				<td><a href="">PHP - Сесии</a></td>
 				<td>06.01.2019</td>
 				<td>12.30/15.30</td>
 			</tr>
 			<tr>
 				<td>13</td>
-				<td><a href="">PHP - Преговор и подготовка за тест</a></td>
+				<td><a href="">PHP - Работа със стрингове</a></td>
 				<td>09-10.01.2019</td>
+				<td>19.00</td>
+			</tr>
+			<tr>
+				<td>12</td>
+				<td><a href="">PHP - Упражнения</a></td>
+				<td>13.01.2019</td>
+				<td>12.30/15.30</td>
+			</tr>
+			<tr>
+				<td>13</td>
+				<td><a href="">PHP - Преговор и подготовка за тест</a></td>
+				<td>16-17.01.2019</td>
 				<td>19.00</td>
 			</tr>
 			<tr>
 				<td>14</td>
 				<td><a href="">PHP - Тест</a></td>
-				<td>13.01.2019</td>
+				<td>20.01.19</td>
 				<td>12.30/15.30</td>				
 			</tr>
 			<tr>
 				<td>15</td>
 				<td><a href="">консултации проекти</a></td>
-				<td>15-16.01.2019</td>
+				<td>23-24.1.2018</td>
 				<td>19.00</td>				
 			</tr>
 			<tr>
 				<td>16</td>
 				<td><a href="">представяне на проекти</a></td>
-				<td>20.01.2019</td>
+				<td>27.01.2019</td>
 				<td>12.30/15.30</td>
 			</tr>
     </tbody>
