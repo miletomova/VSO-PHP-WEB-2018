@@ -15,9 +15,9 @@ for($i = 0; $i < $rows; $i++){
 }
 
 echo "<table border=1>";
-for($m = 0; $m < $rows; $m++){
+for($m = $rows-1; $m >= 0; $m--){
 	echo "<tr>";
-	for($n = 0; $n < $cols; $n++){
+	for($n = $cols-1; $n >= 0; $n--){
 		echo "<td>{$arr[$m][$n]}</td>";
 	}
 	echo "</tr>";
