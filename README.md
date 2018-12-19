@@ -83,7 +83,7 @@ Training Resources
 			</tr>
 			<tr>
 				<td>10</td>
-				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/09_php_for_and_nested_loops/tasks">PHP - матрици, упражнения, GitHub</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/10_lab/">Демо</a>//<a href="">Видео</a>//<a href="">Видео - 2</a>//<a href="">ДОМАШНО</a></td>
+				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/09_php_for_and_nested_loops/tasks">PHP - матрици, упражнения, GitHub</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/10_lab/">Демо</a>//<a href="https://www.youtube.com/watch?v=yd2q7MFf0OE&list=PLQFk-VQC2oBawLCFW13B6Si4SfF7xgpLb&t=0s&index=12">Видео</a>//<a href="https://www.youtube.com/watch?v=FKwAVIAKAw4&feature=youtu.be">Видео - 2</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/10_lab/homeWork">ДОМАШНО</a></td>
 				<td>16.12.2018</td>
 				<td>12.30/15.30</td>
 			</tr>
