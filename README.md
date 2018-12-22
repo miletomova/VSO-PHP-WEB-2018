@@ -1,6 +1,9 @@
 # Vratsa Software, PHP WEB 2018
 Training Resources
 <h3>Разпределение по групи <a href="https://docs.google.com/spreadsheets/d/1io_9_z07-AK52bFqosF3X9LNQBeQKlnBbhj4NIytmAE/edit?usp=sharing" target="_blank"> тук </a></h3>
+<h3>Разпределение на ПРОЕКТИ <a href="https://docs.google.com/spreadsheets/d/1PYH1RdjhutpU8fVd6ytxl5EHjQ1ZoAN38yz9s0Jh8Lc/edit?usp=sharing" target="_blank"> тук </a></h3>
+<h3>ОПИСАНИЯ на ПРОЕКТИТЕ <a href="https://docs.google.com/document/d/12uLLCMyeY0sZoTbUDZRpDdrYBPHG6aOsTrRckeu1kKo/edit?usp=sharing" target="_blank"> тук </a></h3>
+
 <p><a href="#php1"> Календар Ниво 1 - РНР 1 </a></p>
 <p><a href="" target="_blank"> Календар Ниво 2 - РНР 2 </a></p>
 <p><a href="" target="_blank"> Календар Ниво 3 - JavaScript </a></p>
@@ -89,7 +92,7 @@ Training Resources
 			</tr>
 			<tr>
 				<td>11</td>
-				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/11_functions/slides">PHP - Функции</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/11_functions/tasks">Задачи</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/11_functions/demos">Демо</a>//<a href="">Видео</a>//<a href="">Видео - 2</a>//<a href="">ДОМАШНО</a></td>
+				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/11_functions/slides">PHP - Функции</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/11_functions/tasks">Задачи</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/11_functions/demos">Демо</a>//<a href="https://youtu.be/51Mv3LfWW1U">Видео</a>//<a href="https://youtu.be/wS0LkytKNQA">Видео - 2</a>//<a href="">ДОМАШНО</a></td>
 				<td>19-20.12.2018</td>
 				<td>19.00</td>				
 			</tr>
