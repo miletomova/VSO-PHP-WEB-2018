@@ -104,13 +104,13 @@ Training Resources
 			</tr>
 			<tr>
 				<td>12</td>
-				<td><a href="">PHP - Сесии</a></td>
+				<td><a href="">PHP - Работа със стрингове</a></td>
 				<td>06.01.2019</td>
 				<td>12.30/15.30</td>
 			</tr>
 			<tr>
 				<td>13</td>
-				<td><a href="">PHP - Работа със стрингове</a></td>
+				<td><a href="">PHP - Сесии</a></td>
 				<td>09-10.01.2019</td>
 				<td>19.00</td>
 			</tr>
