@@ -104,7 +104,7 @@ Training Resources
 			</tr>
 			<tr>
 				<td>12</td>
-				<td><a href="">PHP - Работа със стрингове</a></td>
+				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/12_Strings_and_RegEx/Slides">PHP - Работа със стрингове</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/12_Strings_and_RegEx/Tasks">Задачи</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/12_Strings_and_RegEx/Demos">Демо</a>//<a href="">Видео</a>//<a href="">Видео - 2</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/12_Strings_and_RegEx/Homework">ДОМАШНО</a></td>
 				<td>06.01.2019</td>
 				<td>12.30/15.30</td>
 			</tr>
