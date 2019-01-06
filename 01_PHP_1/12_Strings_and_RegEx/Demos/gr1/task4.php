@@ -6,11 +6,7 @@ $str = 'amet, consactetur adipisicing elit';
 for($i = 0; $i < strlen($str)/2; $i++){
 	
 	if($str[$i] == 'a'){
-		echo $str[$i];
-		$str[$i]= 'uu';
-		echo $str[$i];
-		
-
+		$str[$i]= 'u';
 	}
 	if($str[$i] == 't'){
 		$str[$i]= 'v';
