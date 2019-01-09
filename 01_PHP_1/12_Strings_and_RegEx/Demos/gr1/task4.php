@@ -28,3 +28,5 @@ for($p = strlen($str)/2; $p < strlen($str); $p++){
 
 
 echo $str;
+
+'/(\(\d{3}\))\s(\d{2}-?){3}/'
