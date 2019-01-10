@@ -110,7 +110,7 @@ Training Resources
 			</tr>
 			<tr>
 				<td>13</td>
-				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/13_sessions/Slides">PHP - Сесии</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/13_sessions/Tasks">Задачи</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/">Демо</a>//<a href="">Видео</a>//<a href="">Видео - 2</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/">ДОМАШНО</a></td>
+				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/13_sessions/Slides">PHP - Сесии</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/13_sessions/Tasks">Задачи</a>//<a href="https://youtu.be/6XulRnB0RQ4">Видео</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/13_sessions/HomeWork">ДОМАШНО</a></td>
 				<td>09-10.01.2019</td>
 				<td>19.00</td>
 			</tr>
