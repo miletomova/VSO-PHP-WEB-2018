@@ -18,8 +18,18 @@
 	<title>Document</title>
 </head>
 <body>
-	<h1>Welcome - <?= date('H:i:s') ?></h1>
+	<h1>Welcome - <?php $date = date('H:i:s'); 
+	echo $date; $_SESSION['date'] = $date; ?></h1>
 
 	<a href="second.php">Get Session Info</a>
 </body>
 </html>
+
+<?php 
+	session_destroy();
+
+	unset($_SESSION['date']);
+
+	echo $_SESSION['date'];
+
+?>
