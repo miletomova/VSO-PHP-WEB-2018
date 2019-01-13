@@ -116,7 +116,7 @@ Training Resources
 			</tr>
 			<tr>
 				<td>12</td>
-				<td><a href="">PHP - Упражнения</a>>//<a href="https://youtu.be/YUvSbDC6vT4">Видео</a>////<a href="https://youtu.be/to2MHv5KLw0">Видео - 2</a><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/13_sessions/HomeWork">Демо</a></td>
+				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/14_lab">PHP - Упражнения</a>>//<a href="https://youtu.be/YUvSbDC6vT4">Видео</a>////<a href="https://youtu.be/to2MHv5KLw0">Видео - 2</a></td>
 				<td>13.01.2019</td>
 				<td>12.30/15.30</td>
 			</tr>
