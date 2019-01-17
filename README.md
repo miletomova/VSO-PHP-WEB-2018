@@ -122,7 +122,7 @@ Training Resources
 			</tr>
 			<tr>
 				<td>13</td>
-				<td><a href="">PHP - Преговор и подготовка за тест</a></td>
+				<td><a href="">PHP - Преговор и подготовка за тест</a>//<a href="https://www.youtube.com/watch?v=HxsdvyASpog&feature=youtu.be">Видео</a></td>
 				<td>16-17.01.2019</td>
 				<td>19.00</td>
 			</tr>
