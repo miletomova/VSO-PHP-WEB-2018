@@ -122,7 +122,7 @@ Training Resources
 			</tr>
 			<tr>
 				<td>13</td>
-				<td><a href="">PHP - Преговор и подготовка за тест</a>//<a href="https://www.youtube.com/watch?v=HxsdvyASpog&feature=youtu.be">Видео</a></td>
+				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/15_test_prep/Test">PHP - Преговор и подготовка за тест</a>//<a href="https://www.youtube.com/watch?v=HxsdvyASpog&feature=youtu.be">Видео</a></td>
 				<td>16-17.01.2019</td>
 				<td>19.00</td>
 			</tr>
